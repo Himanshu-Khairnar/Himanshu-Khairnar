@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Khairnar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Doctor Appointment**
+- 🔭 I’m currently working on **Presonal Finance Website**
 
 - 🌱 I’m currently learning **Next js, Unreal and Unity**
 
