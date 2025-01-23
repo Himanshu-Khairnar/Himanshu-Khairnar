@@ -98,8 +98,10 @@
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=Himanshu-Khairnar&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-Khairnar&hide_border=true&layout=compact" align="right" /></div>  
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HimanshuKhairnar" alt="GitHub Streak" align="right" /></a>
 
-<br/>  
+<br/>
+
+
 
   
