@@ -98,7 +98,7 @@
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=Himanshu-Khairnar&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-khairnar&" alt="himanshu-khairnar" align="right" /></p>
+<p><img  src="https://nirzak-streak-stats.vercel.app/?user=Himanshu-Khairnar&" alt="himanshu-khairnar" align="right" /></p>
 
 <br/>
 
